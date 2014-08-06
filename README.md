@@ -8,4 +8,8 @@ A USB power hub for powering up to 13 USB devices from a benchtop power supply. 
 * Resistor
 * 5mm LED
 
+<img src="https://raw.githubusercontent.com/xioTechnologies/USB-Power-Hub/master/Stacked%20PCB%20Photo.png"/>
+
+<img src="https://raw.githubusercontent.com/xioTechnologies/USB-Power-Hub/master/Single%20PCB%20Photo.png"/>
+
 <img src="https://raw.githubusercontent.com/xioTechnologies/USB-Power-Hub/master/OSH%20Park%20Preview.png"/>
